@@ -101,7 +101,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "play",
+            pattern: "song",
             desc: "Sends info about the query(of youtube video/audio).",
             category: "downloader",
             filename: __filename,
@@ -115,21 +115,21 @@ cmd({
             let buttons = [{
                     buttonId: `${prefix}ytmp4 ${anu.url}`,
                     buttonText: {
-                        displayText: "► Video",
+                        displayText: "🍂► 𝙰𝙻𝙿𝙰𝙷 𝚟𝚒𝚍𝚎𝚘🍂",
                     },
                     type: 1,
                 },
                 {
                     buttonId: `${prefix}ytmp3 ${anu.url}`,
                     buttonText: {
-                        displayText: "♫ Audio",
+                        displayText: "🍂♫ 𝙰𝙻𝙿𝙰𝙷 𝙰𝚞𝚍𝚒𝚘🍂",
                     },
                     type: 1,
                 },
                   {
                     buttonId: `${prefix}ytdoc ${anu.url}`,
                     buttonText: {
-                        displayText: "♫ Document",
+                        displayText: "🍂♫ 𝙰𝙻𝙿𝙰𝙷 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝🍂",
                     },
                     type: 1,
                 },
