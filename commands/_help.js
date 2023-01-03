@@ -85,19 +85,19 @@ Secktor.cmd({
                 let generatebutton = [{
                     buttonId: `${prefix}owner`,
                     buttonText: {
-                        displayText: 'Owner'
+                        displayText: '🍂🎧𝙰𝙻𝙿𝙰𝙷 𝙾𝚆𝙽𝙴𝚁🎧🍂'
                     },
                     type: 1
                 },{
                     buttonId: `${prefix}ping`,
                     buttonText: {
-                        displayText: 'SPEED'
+                        displayText: '🍂🎧𝙰𝙻𝙿𝙰𝙷 𝙿𝙸𝙽𝙶🎧🍂'
                     },
                     type: 1
                 }, {
                     buttonId: `${prefix}list`,
                     buttonText: {
-                        displayText: 'List Menu'
+                        displayText: '🍂🎧𝙰𝙻𝙿𝙰𝙷 𝙼𝙴𝙽𝚄 𝙻𝙸𝚂𝚃🎧🍂'
                     },
                     type: 1
                 }]
